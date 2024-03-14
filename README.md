@@ -6,5 +6,5 @@ week-3 assignment-3:-https://github.com/2203a51777/AIML-2024/blob/main/AIML%20As
 
 week-3 A3 :-https://github.com/2203a51777/AIML-2024/blob/main/week3_A3__2203A51777.ipynb
 
-ML-Assignment-1 :-https://github.com/2203a51777/AIML-2024/blob/main/ML-Assignment---1.pdf
+ML-Assignment-1 :-https://github.com/2203a51777/AIML-2024/blob/main/ML-Assignment-1.ipynb
 
