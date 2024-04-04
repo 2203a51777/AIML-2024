@@ -10,4 +10,7 @@ ML-Assignment-1 :-https://github.com/2203a51777/AIML-2024/blob/main/ML-Assignmen
 
 ML-Assignment-2 :-https://github.com/2203a51777/AIML-2024/blob/main/ML_ASSIGNMENT_2.ipynb
 
+ML-Assignment-3:-https://github.com/2203a51777/AIML-2024/blob/main/ML-Assignment-3.ipynb
+
+
 
